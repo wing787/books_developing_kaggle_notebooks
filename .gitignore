@@ -1,5 +1,6 @@
 # wo personal data
 metadata.json
+data/
 
 # General for MacOS
 .DS_Store
